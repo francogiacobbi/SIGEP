@@ -21,8 +21,7 @@ Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto f
 Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto finalizzato alla &quot;Realizzazione del Nuovo Sistema Informatico del Personale&quot; – Prima fase
 
 | Nome   | Cognome  | Città  |
-| ------ | -------- | ------ |
-| :---   | :---:    | ---:   |
+| :---   |   :---:  | ---:   |
 | Franco | Giacobbi | Roma   |
 | Luigi  | Pallini  | Lazio  |
 | Silvia | Prova    | Napoli |
