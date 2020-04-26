@@ -4,7 +4,7 @@ Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto f
 
 # Membri
 
-- D&#39;Urso Matilde – Ufficio Programmazione e Monitoraggio
+- **D&#39;Urso Matilde** – *Ufficio Programmazione e Monitoraggio*
 - Fusco Stanislao – Unità Formazione e Welfare
 - Giacobbi Franco – Ufficio Programmazione e Monitoraggio
 
