@@ -5,6 +5,7 @@ Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto f
 # Membri
 
 - **Alessandro Preti** - Direzione Centrale
+- **Alessio Marchetti** - ITC
 - **D&#39;Urso Matilde** – *Ufficio Programmazione e Monitoraggio*
 - Fusco Stanislao – Unità Formazione e Welfare
 - Giacobbi Franco – Ufficio Programmazione e Monitoraggio
@@ -19,12 +20,8 @@ Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto f
 
 Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto finalizzato alla &quot;Realizzazione del Nuovo Sistema Informatico del Personale&quot; – Prima fase
 
-+--------+----------+--------+
 | Nome   | Cognome  | Città  |
-+========+==========+========+
+| :---   |   :---:  | ---:   |
 | Franco | Giacobbi | Roma   |
-+--------+----------+--------+
 | Luigi  | Pallini  | Lazio  |
-+--------+----------+--------+
 | Silvia | Prova    | Napoli |
-+--------+----------+--------+
