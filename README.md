@@ -22,6 +22,7 @@ Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto f
 
 | Nome   | Cognome  | Città  |
 | ------ | -------- | ------ |
+| :---   | :---:    | ---:   |
 | Franco | Giacobbi | Roma   |
 | Luigi  | Pallini  | Lazio  |
 | Silvia | Prova    | Napoli |
