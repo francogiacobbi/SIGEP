@@ -5,6 +5,7 @@ Task force di &quot;Analisi&quot; riguardante il Gruppo di lavoro del Progetto f
 # Membri
 
 - **Alessandro Preti** - Direzione Centrale
+- **Alessio Marchetti** - ITC
 - **D&#39;Urso Matilde** – *Ufficio Programmazione e Monitoraggio*
 - Fusco Stanislao – Unità Formazione e Welfare
 - Giacobbi Franco – Ufficio Programmazione e Monitoraggio
